@@ -1,0 +1,11 @@
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.deps.json
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.runtimeconfig.json
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.runtimeconfig.dev.json
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.dll
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/bin/Debug/netcoreapp2.0/RazorPagesMovie.pdb
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.csproj.CoreCompileInputs.cache
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfoInputs.cache
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.AssemblyInfo.cs
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.dll
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.pdb
+/Users/vknez/Documents/Programming/Practice/RazorPagesMovie/obj/Debug/netcoreapp2.0/RazorPagesMovie.csprojResolveAssemblyReference.cache
